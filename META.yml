@@ -36,4 +36,4 @@ resources:
   bugtracker: https://github.com/mudler/p5-Deeme-Backend-SQLite/issues
   homepage: https://github.com/mudler/p5-Deeme-Backend-SQLite
   repository: https://github.com/mudler/p5-Deeme-Backend-SQLite.git
-version: 0.01
+version: 0.02
